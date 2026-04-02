@@ -1,0 +1,31 @@
+Example of Software Internship Job Description 
+Our company is growing rapidly and is searching for experienced candidates for the position of 
+software internship. We appreciate you taking the time to review the list of qualifications and 
+to apply for the position. If you don’t fill all of the qualifications, you may still be considered 
+depending on your level of experience. 
+Responsibilities for software internship 
+• Organized, hands-on approach and sense of urgency 
+• Agile Software Development, Open Source Application Development and Contributions 
+• User Interface (UI) Development (HTML, JSP, MVC Frameworks, GWT or other Web 2.0 
+Frameworks, JavaFX) 
+• Continuous Integration and Source Management (e.g., Jenkins, Cruise Control, Subversion, 
+GIT) 
+• High Throughput Messaging (Billions of messages per day) 
+• Other improvement could be 
+• Open bug reports for failures detected 
+• You will be working on a variety of applications including server, client (user- interface) 
+mobility, web (portal for system configuration) and embedded switch software 
+• You will work with technologies involving real-time media, network protocols, security, 
+encryption, compression, reliability/availability, distributed databases, and more 
+• In a small engineering team, your work with other engineers, QA, and Product 
+Management offers excellent exposure to industry best-practices in a fast-moving, highly 
+successful company 
+Qualifications for software internship 
+• Student of Bachelor's or Master's degree in Computer Engineering, Computer Science, 
+Electrical Engineering, or equivalent 
+• Postgraduate students with majors in Communication, Computer, Security, are preferred 
+• Must be studying towards Bachelor or Master level degree in Computer Science or 
+Informatics 
+• Familiarity in OO design, algorithms and data structures 
+• Programming knowledge in C++ 
+• Experience developing for mobile platforms (iOS or Android) – apps, small games a plus 

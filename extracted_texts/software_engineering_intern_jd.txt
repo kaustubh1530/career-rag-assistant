@@ -1,0 +1,23 @@
+Example of Software Engineering Intern Job Description 
+Our company is growing rapidly and is hiring for a software engineering intern. If you are 
+looking for an exciting place to work, please take a look at the list of qualifications below. 
+Responsibilities for software engineering intern 
+• Application design principles with a focus on automation 
+• Benchmarking and metric gathering to determine application performance profiles 
+• An approach software development with a focus on extensibility & reusability 
+• How to scaffold and maintain web applications 
+• How to make highly reliable clinical software 
+• Professional software development practices and lifecycle management 
+• Process QC and factors that give visualizations impact 
+• Maintaining and extending build quality by troubleshooting and extending test automation 
+• Investigating and fixing customer-reported software problems 
+• Coding feature enhancements for future software releases 
+Qualifications for software engineering intern 
+• Pursuing BS/BA or MS/MA in Computer Science or related field 
+• Involve in study of existing Core Systems 
+• Suggest improvements for Core Systems in any of the product lifecycle 
+• Coordinate with various team members in Core payments to better understand the system 
+and suggest initiatives 
+• Socket layer development/enhancements and adjacencies libevent, epoll eBPF 
+• Currently pursuing a degree in Electrical Engineering, Electrical and Computer Engineering, 
+Computer Engineering, Computer Science or related field 

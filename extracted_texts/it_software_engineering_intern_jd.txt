@@ -1,0 +1,50 @@
+IT Intern – Software Engineering Track 
+Job Description 
+The PCRB IT internship will allow you to apply skills and knowledge you have learned in school, 
+while contributing to company projects and playing a key role within the IT department. Our 
+company will provide you hands-on experience to fit your career objectives, evolve and 
+complement your academic studies and help grow your knowledge base. The paid internship 
+runs for approximately 7-10 weeks throughout the summer beginning in early June through end 
+of August. 
+Essential Responsibilities: 
+• Create root cause analysis documents for minor issues fixed recently for key apps in 
+PCRB by doing reverse engineering of code base 
+• Support and understand standard software life cycle process for Waterfall and Agile 
+methodology 
+• Participate and assist in testing applications (smoke testing and functional testing 
+aspects) 
+• Be able to learn and utilize basic tools for GIT usage to learn code repository basic 
+details 
+• Creating technical documentation on new processes, as well as additions and 
+enhancements to already established documentation 
+• Assist the IT Infrastructure team in addressing system and technology alerts or 
+interruptions of service 
+• Gain knowledge in troubleshooting, diagnosing, resolving, and communicating solutions 
+to end user’s IT problems 
+• Assist in configuring and deploying new user equipment (Laptops, Docking Stations, 
+Screens, etc.) 
+• Utilize research, problem solving and analytical skills to support end-users and 
+contribute to projects 
+• Gain exposure to a range of information technology areas, such as applications, systems 
+architecture, network systems and infrastructure 
+• Perform other miscellaneous duties as requested  
+Requirements: 
+Education: Currently pursuing a B.S. in Information Systems/Technology, Computer Science, or 
+related field. 
+Experience: No previous experience required, but candidates must express willingness and 
+aptitude to learn new skills quickly and show earnest ability to work both independently and 
+with instruction 
+Technical Skills: 
+• C# or VB .net code beneficial, but not required 
+• Basic SQL skills beneficial, but not required 
+Core Skills Required: 
+• Ability to articulate IT’s role in enabling and supporting innovation, competitive 
+differentiation, and business process/workflow efficiencies 
+• Excellent oral and written English communication, interpersonal, presentation and 
+planning skills at a macro levels. Strong decision-making skills. 
+• Intermediate to advanced Microsoft Office proficiency required to analyze and present 
+information (Excel, Word, Access and PowerPoint). 
+• Fundamental knowledge of desktop computer hardware, operating systems and 
+computer networks 
+ 
+ 

@@ -1,0 +1,44 @@
+KAUSTUBH PATIL 
+Virginia, USA | +1 (682) 347-6277 | kauspatil1530@gmail.com 
+GitHub: https://github.com/kaustubh1530 | LinkedIn:  linkedin.com/in/kaustubh-patil1530 
+ 
+SUMMARY 
+Computer Science student specializing in Software Engineering with hands-on experience in backend 
+development and AI-powered applications. Skilled in FastAPI, OpenAI APIs, and building scalable, real-world 
+solutions. Seeking a Software Engineering or AI-focused internship. 
+ 
+EDUCATION 
+University of the Potomac           August 2026 
+Bachelor of Science in Computer Science (Software Engineering) 
+ 
+TECHNICAL SKILLS 
+• Languages: Python, Java, JavaScript, HTML, CSS 
+• Frameworks & Tools: FastAPI, Flask, Git, GitHub 
+• AI/ML: OpenAI API, Prompt Engineering 
+• Concepts: REST APIs, OOP, Backend Development 
+• Databases: Excel, SQLite 
+ 
+PROJECTS 
+AI Cover Letter Generator (OpenAI, Prompt Engineering) 
+https://github.com/kaustubh1530/ai-cover-letter-generator.git 
+• Built an AI-powered tool to generate ATS-friendly, job-specific cover letters using OpenAI API and 
+structured prompt engineering. 
+• Designed modular Python architecture with reusable functions and automated file generation. 
+ 
+AI Resume Analyzer (FastAPI + OpenAI) 
+https://github.com/kaustubh1530/resume_analyzer_api.git 
+• Developed a FastAPI-based REST API to analyze PDF resumes and extract structured insights. 
+• Implemented file upload handling and JSON-based response system for data extraction. 
+• Tested across multiple resume formats to improve parsing accuracy. 
+ 
+Liquor Store Inventory System (Flask) 
+https://github.com/kaustubh1530/liquor-store-inventory.git 
+• Built a full-stack inventory management system to track stock across store and warehouse. 
+• Designed responsive UI with HTML/Bootstrap and integrated Excel-based data tracking. 
+ 
+EXPERIENCE 
+Software Developer Intern | Classy Corks and Wine | June 2024 – September 2024 
+• Developed full-stack web features and built a custom inventory count system to streamline warehouse 
+operations. 
+• Collaborated with team members to deliver efficient solutions under real-world constraints. 
+ 

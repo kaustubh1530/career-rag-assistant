@@ -1,0 +1,92 @@
+Full job description 
+We’re looking for exceptional machine learning interns who are passionate about AI, graphics, 
+and building world-class products together with us. 
+What we’re looking for: 
+• Able to commit to a full-time internship for 12 weeks or longer 
+• Intend to join Meshy full-time after graduation (ideally graduating from 9/2026-
+9/2027, but later is also acceptable) 
+• Open to undergraduate, master's, or PhD students 
+• Strong in technical fundamentals, with a spirit of innovation and willingness to 
+challenge yourself 
+ 
+Who You Are 
+We are looking for Machine Learning Systems Engineers who can help us build the world's 
+largest end-to-end 3D native machine learning systems. You will help us build our end to end 
+ML framework dedicated for 3D, from pretraining, to finetuning, inferencing, etc. We expect a 
+combination of strong hands on engineering skills, eagerness to learn new things, and thrives in 
+a fast-paced, high-ownership environment. 
+Who We Are 
+At Meshy, we believe 3D creation should be boundless and accessible. Our mission statement is 
+simple: unleash creativity. We built a full pipeline for 3D content ranging from text / image to 
+3D, texturing, texture editing, animation rigging, etc. We also built a vibrant community for our 
+creators, where people can share their work, take inspiration from others, and even use it as an 
+asset marketplace for their games and prototypes. We are the market leader in 3D generative 
+AI, recognized as the No.1 in popularity among 3D AI tools (according to 2024 A16Z Games 
+survey), and we generate real value and is used by enterprises (including Meta, Square Enix, 
+Deepmind, etc.) and millions of end users. Meshy is used in game and film production, in 3D 
+printing, in industrial product design, in enablement of novel product features such as user-
+generated content, and even in training and simulation for robotics and physical AI. 
+Your next challenge 
+3D is the brave new frontier of Gen AI. Our work here involves a lot of unique new challenges in 
+both training and inference. Your next challenge at Meshy would involve the full stack of AI, 
+from debugging and monitoring the hardware platform, building training framework, scaling 
+high-throughput 3D data pipelines for our foundational training, co-designing novel model 
+architectures with researchers, to the novel challenge of efficient inference engines for 
+diffusion models and more. Here are some examples for each side of the challenge: 
+What We're Looking For 
+• Experience in machine learning or high performance graphics. 
+• Solid practical understanding of at least one machine learning framework (e.g. PyTorch, 
+JAX). 
+• Strong ability to write beautiful and maintainable code in Python and/or C++. 
+• Ability to learn fast and dive into new concepts or complex codebases. 
+• Performance and efficiency oriented mindset, with a strong interest in the tiniest detail. 
+• Strong communication skills for working in a globally distributed team. 
+Nice to have 
+• A strong passion to navigate through the PyTorch internals, with hands-on experience in 
+areas like torch.compile , fully_shard (FSDP2) APIs. 
+• Experience with building Triton kernels. 
+• Experiences with large-scale distributed training, familiarity with modern parallelization 
+techniques: DP, TP, CP, PP, zero redundancy optimizers, etc. 
+• Experience with diffusion models in 3D or video. 
+• Experience with low precision bf16 or fp8 training 
+ 
+Internship Tracks 
+Star Intern 
+• Base salary: $70/hour 
+• Role: Collaborate with Machine Learning engineers to drive progress in AI and graphics 
+R&D 
+• Requirements: First-author publications in top-tier conferences such 
+as SIGGRAPH, SIGKDD, etc. 
+Rising Intern 
+• Base pay: $50/hour 
+• Role: Collaborate with Machine Learning engineers to drive progress in AI and graphics 
+R&D 
+• Requirements: Hands-on experience in machine learning or GPU development, either 
+through research or engineering work 
+ 
+Location 
+We are based in Sunnyvale, California. 
+ 
+About Meshy 
+Headquartered in Silicon Valley, Meshy is the leading 3D generative AI company on a mission 
+to Unleash 3D Creativity by transforming the content creation pipeline. Meshy makes it 
+effortless for both professional artists and hobbyists to create unique 3D assets — turning text 
+and images into stunning 3D models in just minutes. What once took weeks and cost $1,000 
+now takes just 2 minutes and $1. 
+Our world-class team of top experts in computer graphics, AI, and art includes alumni from MIT, 
+Stanford, and Berkeley, as well as veterans from Nvidia and Microsoft. Our talent spans the 
+globe, with team members distributed across North America, Asia, and Oceania, fostering a 
+diverse and innovative multi-regional culture focused on solving global 3D challenges. Meshy is 
+trusted by top developers, backed by premiere venture capital firms like Sequoia and GGV, and 
+has successfully raised $52 Million in funding. 
+Meshy is the market leader, recognized as the No.1 in popularity among 3D AI tools (according 
+to 2024 A16Z Games) and No.1 in website traffic (according to SimilarWeb, with 3 
+Million monthly visits). The platform boasts over 5 Million users and has generated 40 Million 
+models. 
+Founder and CEO Yuanming (Ethan) Hu earned his Ph.D. in graphics and AI from MIT, where he 
+developed the acclaimed Taichi GPU programming language (27K stars on GitHub, used by 300+ 
+institutes). His work is highly influential, including an honorable mention for the SIGGRAPH 
+2022 Outstanding Doctoral Dissertation Award and over 2,700 research citations. 
+&nbsp; 
+ 
+ 
