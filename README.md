@@ -4,7 +4,7 @@ An AI-powered **career document assistant** that uses **Retrieval-Augmented Gene
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project ingests multiple PDFs such as:
 - a candidate resume
@@ -29,7 +29,7 @@ This creates a practical **AI Career Assistant** that can help with:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Python**
 - **OpenAI API**
@@ -40,7 +40,7 @@ This creates a practical **AI Career Assistant** that can help with:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 career-rag-assistant/
@@ -57,74 +57,7 @@ career-rag-assistant/
 
 ---
 
-## ⚙️ Setup
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/career-rag-assistant.git
-cd career-rag-assistant
-```
-
-### 2. Create a virtual environment
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Create your `.env` file
-
-Create a file named `.env` in the project root and add:
-
-```env
-OPENAI_API_KEY=your_openai_api_key_here
-```
-
----
-
-## 📄 Add Your PDFs
-
-Place your PDF files inside the `documents/` folder.
-
-### Example:
-- `resume.pdf`
-- `software_engineering_intern_jd.pdf`
-- `software_backend_intern_jd.pdf`
-- `ml_intern_jd.pdf`
-- `it_software_engineering_intern_jd.pdf`
-
----
-
-## ▶️ Run the App
-
-```bash
-python3 app.py
-```
-
----
-
-## ❓ Example Questions
-
-Try asking:
-
-```text
-What skills appear most often across these job descriptions?
-Which skills in my resume match these internship roles?
-What important keywords seem missing from my resume?
-Which of my projects best align with these roles?
-What should I learn next to better match these jobs?
-```
-
----
-
-## 🧠 How It Works
+## How It Works
 
 ### 1. Multi-Document Ingestion
 The app automatically loads every PDF from the `documents/` folder.
@@ -146,7 +79,7 @@ The most relevant chunks are passed to OpenAI, which generates a context-based a
 
 ---
 
-## 📌 Example Use Cases
+## Example Use Cases
 
 This project can be adapted for:
 - resume analysis
@@ -157,21 +90,7 @@ This project can be adapted for:
 
 ---
 
-## 🔥 Why This Project Matters
-
-This project demonstrates practical skills in:
-- AI engineering
-- retrieval-augmented generation (RAG)
-- document processing
-- vector search
-- prompt engineering
-- backend Python development
-
-It is designed as a strong **portfolio project** for **software engineering** and **AI-focused internships**.
-
----
-
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential upgrades:
 - build a **Streamlit** or **Flask** web UI
@@ -182,6 +101,6 @@ Potential upgrades:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Kaustubh Patil**
